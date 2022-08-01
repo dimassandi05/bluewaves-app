@@ -4,3 +4,4 @@ plotly==5.6.0
 express==1.0
 openpyxl==3.0.9
 pipreqs==0.4.10
+plotly-express
